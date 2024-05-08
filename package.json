@@ -9,13 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.0.0",
+    "bcrypt": "^5.1.1",
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
     "dotenv": "^6.1.0",
     "express": "^4.16.4",
     "express-cors": "0.0.3",
     "jsonwebtoken": "^9.0.2",
+    "npm": "^10.7.0",
     "package.json": "^0.0.0",
     "pg": "^8.3.3",
     "supertest": "^4.0.2"
